@@ -8,12 +8,12 @@ Funcionalidade: Buscar no site torneseumprogramador
         Quando eu acesso o site torneseumprogramador
         E digito no campo de pesquisa "bdd"
         E clico no botao da lupa
-        Entao devo ver a mensagem de sucesso 'Busca pelo termo "bdd"'
+        Entao devo ver a mensagem de sucesso 'Busca pelo termo "bdd"' 
 
     Cenario: Buscando termo tdd
         Quando eu acesso o site torneseumprogramador
         E digito no campo de pesquisa "tdd"
         E clico no botao da lupa
-        Entao devo ver a mensagem de sucesso "Busca pelo termo "tdd""
+        Entao devo ver a mensagem de sucesso 'Busca pelo termo "tdd"' 
 
     
